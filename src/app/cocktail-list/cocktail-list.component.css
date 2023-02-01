@@ -1,0 +1,9 @@
+div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 25px;
+    margin-top: 15px;
+    background: linear-gradient(#5ca8c9,#d8934a);
+    width: 250px;
+}
